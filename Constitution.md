@@ -6,27 +6,27 @@
 A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about turning ideas into shipped products within 12 hours.
 Sundai is born out of MIT and Harvard.
 
-### Mission
-1. **Cultivate the Best Hackers**  
+### Our Mission
+1. **Grow the Best Hackers**  
    learn to build fast with AI
 2. **Build things that matter**  
    users / $$$ / github ⭐️
 3. **Spread the Hacker Mindset**  
-   teach the skills we learn at MIT and beyond
+   teach the skills that we learn at MIT and beyond
 
-### Vision
+### Our Vision
 *"A world where hacking with AI tools is the new literacy."*
 
 Our goal is to push the envelope of what is possible to do with AI in a day.
 
 ### What is a hacker
-Moves fast with little capital and resources to make impact on focused problems. Uses start of the art AI tools.
+Someone who moves fast with little capital and resources to make impact on focused problems. Someone who uses start of the art AI tools.
 
 ```python
 def hacker_vs_engineer():
-    # hacker/           # engineer/
-    → fast             → meticulous
-    → uses structure   → builds structure
+    # hacker/              # engineer/
+    → fast                 → meticulous
+    → uses structure       → builds structure
     → flexible, prototypes → stable, robust
 ```
 
