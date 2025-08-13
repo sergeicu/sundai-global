@@ -98,10 +98,16 @@ Sundai is a community run by volunteers. The leader of the day (MC) is not paid.
 - **Hacker → Core Hacker**: 3x launch lead + 1x MC + significant community contribution
 
 ### Weekly Operations:
-- **One MC per week** (rotated among hackers)
-- **Max 20% newcomers** each session to maintain community continuity
-- **Mandatory Commit** to follow through Launch Checklist (if not done 7-8pm during a hack)
-- **Weekly hacker meetings** for community management (separate from hack days)
+Weekly hacker meetings are for community management (separate from hack days). E.g. Tue evenings for 30-60mins. 
+- **Choose MC for the week** - rotated among hackers
+- **Create Partiful/Luma** for next Sunday and to invite previous attendees
+- **Distribute Invites**  to the hack amongst other city meetups and tech groups 
+- **Accept 20% newcomers** each session to maintain community continuity. Focus on coders and avoid 'business/MBA only' candidates. 
+- **Verify Projects page** - are all prev projects posted on sundai.club/projects (if not done 7-8pm during a hack)?
+- **Post on LinkdedIn** about previous hack, link to projects on sundai.club/projects and tag people involved 
+- **Plan Future Themes** - plan many hacks in advance. Bring an interesting theme / company / framework
+- **Get Sponsors** - for food or venues. Make sure you explain that Sundai is a 'hack' (cooperation + shipping) and not a 'hackathon' (competition + pitching)
+
 
 ## Launch Requirements (Non-Negotiable)
 
