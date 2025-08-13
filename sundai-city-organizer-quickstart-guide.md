@@ -3,7 +3,7 @@
 ## Core Purpose
 A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about co-creating in teams to turn ideas into shipped products within 12 hours. 
 
-While learning together about latest AI tools & models. 
+We learn together about latest AI tools & models by building every Sunday. 
 
 Sundai is born out of MIT and Harvard.
 
