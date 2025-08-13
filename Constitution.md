@@ -89,23 +89,21 @@ We copyleft this Burning Man principle:
 
 - **Idea Selection**: Vote on ideas together. We vote based on: impact, technical feasibility, user need. Ideas that can be accomplished in a day proceed to the team formation stage.
 
-### Team formation: 
-A team must be a minimum of 3, which includes a clear role for: tech hacker, growth hacker and launch lead. See description of roles below. Launch lead can also be any other role. A team may consist of multiple hackers of any role.
+- **Team Formation**: A team must be a minimum of 3. We encourage you to meet new people and form new teams each week. 
 
-- **Hacking**: Free-flow process.
+- **Hacking**: Free-flow. Quick check-in at lunchtime. Every team shouts what they did in last 1-2 hours.
 
-- **Pre-launch**: Each team must
-  1. post a project on sundai.club page
-  2. open source code
-  3. create blog or vlog
-  4. make a post on social media (min linkedin)
+- **Pre-launch prep**: Each team must 
+  
+  1. post a project on sundai.club page with  a) open source code b) a blog or vlog
+  2. make a post on social media (min linkedin)
   5. All webpages, posts or code must clearly acknowledge Sundai and all team members of a hack in a visible manner. Templates or Examples will be provided.
 
-- **Launch**: Hack launch is not a pitch. It is a trial. A random member of Sundai audience comes to Sundai.club webpage, opens the link to your app and talks through what they see. All members discuss the project to give feedback. Your team shares your insights about the hack with everyone - e.g. which tech tools you used and what you learned
+- **Launch**: Hack launch is NOT a pitch. It is a trial. A random member of Sundai audience comes to Sundai.club webpage, opens the link to your app and talks through what they see. All members discuss the project to give feedback. Your team shares your insights about the hack with everyone - e.g. which tech tools you used and what you learned
 
 - **Track**: After launch, each team should track engagement and users on social media or on conduct user interviews.
 
-- **Iterate**: Bring the project back and improve. All efforts must be acknowledged clearly based on effort put in. Always acknowledge your team and Sundai itself in any work, including hacks and papers in all public materials. Such projects can break out of open source (after 1st hack). If your team decides to form a company or publish a paper - a negotiation must occur with Sundai Council present to help you in the best way possible. Our goal is to enable as many startups or impact projects to grow out of sundai.
+- **Iterate**: Bring projects back and improve. Our goal is to enable as many startups or impact projects to grow out of sundai. Once a project returns for a 2nd or 3rd hack - it can be made 'closed source'. HOWEVER - 1. all efforts must be acknowledged clearly based on effort put in by all team members. 2. Acknowledge Sundai itself in any work, including hacks and papers in all public materials.
 
 ## Article V: How to Lead a Hack (or a Retreat)
 
@@ -113,9 +111,9 @@ A team must be a minimum of 3, which includes a clear role for: tech hacker, gro
 
 **Role: Master of Ceremonies (MC)**: MCs lead the day of the hack.
 
-MCs are chosen weekly. Members that want to be promoted to a new hacker rank (e.g. newcomer to hacker, hacker to core hacker) must MC for each promotion.
+MCs are chosen weekly. You can only be promoted to 'Core Hacker' (see Sundai Levels below) if you MC at least one hack.
 
-MCs responsibilities are to lead the entire day and have the following responsibilities:
+MCs lead the entire day and have the following responsibilities:
 
 1. **Food** - delegate how participants will get food. Get breakfast and lunch (only when sponsored).
 2. **Newcomers** - onboard newcomers and answer their questions
@@ -148,32 +146,26 @@ Each person who is a speaker should also present themselves as a sundai hacker i
 
 Sundai Club aims to grow its network, knowledge and resources where possible.
 
-## Article VII: Roles
+## Article VII: Roles & Levels
 
-### Levels
-
-1. **Newcomer**: New members focused on learning and integration.
+1. **Newcomer**: Newbies focused on learning and integration.
 2. **Hacker**: Active participants in hacks and community.
-3. **Core Hacker**: Leaders of hacks. Have core say on all technical matters.
+3. **Core Hacker**: Leaders of hacks (MCs). Have core say on all technical matters.
 
 ### Responsibilities
 
 1. **Core Hackers**:
-   - Vote on core technical issues
-   - Mentor and support hackers
-   - Lead projects and strategic planning.
-   - Engage actively in discussions and provide feedback in weekly hacker meetings
+   - Invited to teach workshops and present Sundai at high profile events
+   - Invited to vote on core Sundai issues
+   - Actively lead projects and strategic plans to expand Sundai 
+   - Expected to be core organizers of retreats 
 
-2. **Hackers**:
-   - Contribute to hacks and support peers.
-   - Continuously improve skills and seek mentorship.
-   - Engage in community discussions and activities.
-   - Expected to participate in most but not all weekly hacker meetings. Soft requirement.
+3. **Hackers**:
+   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
+   - Regularly lead teams in a hack as 'Launch Leads' 
 
-3. **Newcomers**
-   - Focus on learning and participating in projects.
-   - Ask questions and seek guidance in Discord.
-   - Work towards becoming a Regular hacker.
+4. **Newcomers**
+   - Focus on learning and participating in projects
 
 ### Promotion Criteria
 
@@ -183,7 +175,6 @@ Sundai Club aims to grow its network, knowledge and resources where possible.
 2. **Hacker to Core Hacker**:
    - At least 3x launch lead (team leader)
    - At least 1x MC
-   - Significant contribution to the club beyond leading a team in a hack (e.g. help plan an entire hack of the day etc)
 
 ## Article VIII: Communication
 
