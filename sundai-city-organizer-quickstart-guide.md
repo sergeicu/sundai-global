@@ -191,16 +191,16 @@ Every team must complete by day's end:
 
 ## Key Differences from Traditional Tech Meetups
 
-**Not Demo Days**: We don't showcase pre-built work - we build together from scratch
-**Not Networking Events**: While community is central, the focus is collaborative creation
-**Not Educational Workshops**: Learning happens through doing, not presentations  
-**Not Individual**: Everything is team-based with minimum 3-person teams
-**Not Optional**: Shipping requirements and full-day commitment are non-negotiable
+**Not Demo Days**: We don't showcase pre-built work - we build together from scratch  
+**Not Networking Events**: While community is central, the focus is collaborative creation  
+**Not Educational Workshops**: Learning happens through doing, not presentations    
+**Not Individual**: Everything is team-based with minimum 3-person teams  
+**Not Optional**: Shipping requirements and full-day commitment are non-negotiable  
 
-**We Are**: A movement of builders who ship AI applications together, creating both technology and lasting community bonds through the shared intensity of collaborative creation.
+**We Are**: A movement of builders who ship AI applications together, creating both technology and lasting community bonds through the shared intensity of collaborative creation.  
 
 ---
 
-*"A world where hacking with AI tools is the new literacy" - Sundai Vision*
+*"A world where hacking with AI tools is the new literacy" - Sundai Vision*  
 
 **Remember**: Sundai is about transforming Sunday from a day of rest into a day of collaborative creation. We measure success not in demos or presentations, but in shipped applications, user engagement, and the startups that emerge from our weekly building sessions.
