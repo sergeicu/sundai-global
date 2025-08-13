@@ -59,7 +59,7 @@ Try to make your sundai project small, so that you can ship it into users' hands
 ### Frolic
 Sundai is a space and time to co-create, explore, rest, enjoy and spend time together with brilliant, open-minded and kind people. It is also a time to have fun ('frolic'). A place to take your mind away from structured work, and to enjoy your day off.
 
-Frolic. Have fun. Sunday runs highly encouraged in the middle of the day.
+Frolic. Have fun. e.g. go for a run in the middle of a hack day, play a short volleyball match, do a music jam. 
 
 ### Share Openly
 We open source each hack and post our progress each Sunday on www.sundai.club/projects. We demo our hacks wherever we go and teach workshops on what we learn.
