@@ -31,9 +31,9 @@ def hacker_vs_engineer():
 ```
 
 ### Why now (short version):
-**10x developer is not a myth, it is you today**
+- **10x developer is not a myth, it is you today**
 
-**Building with AI tools is the new literacy.**
+- **Building with AI tools is the new literacy.**
 
 ### Why (long version):
 **Universal accessibility**: Just as literacy spread from being a rare skill of the elite to a basic expectation for everyone, we envision AI hacking becoming accessible to all people regardless of their background or formal education.
