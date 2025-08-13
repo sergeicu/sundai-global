@@ -3,7 +3,7 @@
 ## Article I: Mission & Vision
 
 ### What is Sundai:
-Sundai is a community movement for rapid prototyping with AI - born out of MIT and Harvard.
+Sundai is a community of weekly builders for rapid prototyping with AI - born out of MIT and Harvard.
 
 ### Mission
 1. **Cultivate the Best Hackers**  
