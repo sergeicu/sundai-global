@@ -64,25 +64,27 @@ Each Attendee Must Be Able To "Actively Build":
 
 - **Wrap-up (9pm-10pm):** Cleanup & organize space (_everyone_ participates)
 
-## Sundai Cultural Principles
+## Sundai Principles
 
-### 1. Build
-Every gathering is about creating something new from scratch. No individual pre-work presentations.
+### 1.  Build
+The purpose of Sundai is to get together and build things. Every Sunday.
 
 ### 2. Ship
-Projects must be deployed and accessible by end of day. Build small to ship fast. No unfinished projects.
+Try to make your sundai project small, so that you can ship it into users' hands by the END OF THE DAY. This means - build a simple webapp demo that works and make it available on the internet. Do not leave projects unfinished on sunday. Go for less, to do more.
 
-### 3. Frolic  
-Balance intense building with fun, rest, and social connection. Encourage breaks, runs, and community bonding.
+### 3. Frolic
+Sundai is a space and time to co-create, explore, rest, enjoy and spend time together with brilliant, open-minded and kind people. It is also a time to have fun ('frolic'). A place to take your mind away from structured work, and to enjoy your day off.
+
+Frolic. Have fun. e.g. go for a run in the middle of a hack day, play a short volleyball match, do a music jam. 
 
 ### 4. Share Openly
-Everything is open source immediately. All work acknowledges Sundai and team members prominently.
+We open source each hack and post our progress each Sunday on www.sundai.club/projects. We demo our hacks wherever we go and teach workshops on what we learn. 
 
 ### 5. Build in Teams
-Minimum 3-person teams. No solo projects. Leverage diverse skills and backgrounds collaboratively.
+Sundai is a team sport. We encourage each hacker to constantly meet and form new teams and build things TOGETHER. Our diverse skills and backgrounds is what makes our hacks interesting. No solo.
 
 ### 6. Help, Clean & Organize
-Community-run by volunteers. Everyone contributes to logistics, cleanup, and eventual MC leadership.
+Sundai is a community run by volunteers. The leader of the day (MC) is not paid. Every participant is expected to help clean & organize the room at the end of the day. Every regular hacker is expected to stand up and lead a hack one day. You are the leader of Sundai. It is a hacker group run by hackers for hackers.
 
 ## Community Management
 
