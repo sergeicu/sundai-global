@@ -130,7 +130,7 @@ Every team must complete by day's end:
 - **(optional) Presentation area** for evening showcases. Also works - share a zoom link and sit in a circle.
 
 ### Capacity Planning & Growth:
-- Always start small with a group of friends. A group of 6 friends is better than a group of 60 strangers.
+- Always start small with a group of friends. A group of 6 friends is better than a group of 30 strangers.
 - Grow slowly. Accept 20-30% newcomers each session to maintain continuity.
 - Target 10-30 participants per session max. Avoid impersonal 'hackathon' style gatherings.
 - Gently but firmly kick out people that don't come to hack (e.g. those that just talk, or those that come just to recruit, etc)
