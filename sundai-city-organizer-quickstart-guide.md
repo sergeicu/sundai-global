@@ -129,10 +129,15 @@ Every team must complete by day's end:
 - **Power access** for all participants' devices
 - **(optional) Presentation area** for evening showcases. Also works - share a zoom link and sit in a circle.
 
-### Capacity Planning:
-- Target 15-30 participants per session
-- Scale venue size accordingly
-- Ensure new participant cap (20% max) is maintainable
+### Capacity Planning & Growth:
+- Always start small with a group of friends. A group of 6 friends is better than a group of 60 strangers.
+- Grow slowly. Accept 20-30% newcomers each session to maintain continuity.
+- Target 10-30 participants per session max. Avoid impersonal 'hackathon' style gatherings.
+- Gently but firmly kick out people that don't come to hack (e.g. those that just talk, or those that come just to recruit, etc)
+- Generally avoid 'business/MBA only' attendees that **do not try to code with Cursor/Claude Code/etc**. They will pitch big infeasible ideas and make team work difficult. Knowing the limit of what is possible to do in a day requires knowledge of tools. 
+
+
+- Avoid large impersonal 'hackathon' style gatherings 
 
 ## Promotional Strategies
 
