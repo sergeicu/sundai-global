@@ -150,7 +150,7 @@ Sundai Club aims to grow its network, knowledge and resources where possible.
 
 1. **Newcomer**: Newbies focused on learning and integration.
 2. **Hacker**: Active participants in hacks and community.
-3. **Core Hacker**: Leaders of hacks (MCs). Have core say on all technical matters.
+3. **Core Hacker**: Leaders of teams (launch leads) and sundai hacks (MCs). Have core say on all technical matters.
 
 ### Responsibilities
 
