@@ -9,14 +9,14 @@ Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/mai
 
 ## Key Responsibilities of City Organizers
 
-### Essential Duties
+### City Organizer Duties
 1. **Secure consistent venues** with power, wifi, and collaborative workspace
 2. **Curate active builders** - screen for commitment to full-day participation  
 3. **Delegate MC role weekly** and support MC leadership development
 4. **Community growth**: Onboard newcomers (max 20% of total participants)
 5. **Post-hack follow-up**: Ensure all teams meet shipping requirements
 
-### MC Responsibilities (Rotated Weekly)
+### MC Duties (Rotated Weekly)
 - **Lead the hack day** as Master of Ceremonies throughout 12-hour session
 - **Coordinate food & logistics** throughout the day
 - **Facilitate team formation** and project selection processes
