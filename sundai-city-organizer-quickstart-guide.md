@@ -1,7 +1,8 @@
 # Sundai City Organizer QuickStart Guide
 
 ## Core Purpose
-A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about turning ideas into shipped products within 12 hours. And learning about SoTA AI tools & models in the build process. 
+A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about using state of the art AI tools and co-creating in teams to turn ideas into shipped products within 12 hours. 
+Sundai is born out of MIT and Harvard.
 
 Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/main/Constitution.md)
 
