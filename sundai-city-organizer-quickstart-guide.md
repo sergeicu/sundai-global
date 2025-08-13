@@ -192,12 +192,12 @@ Every team must complete by day's end:
 ## Key Differences from Traditional Tech Meetups
 
 **Not Demo Days**: We don't showcase pre-built work - we build together from scratch  
-**Not Networking Events**: While community is central, the focus is collaborative creation  
+**Not Networking Events**: While community is central, the focus is creating and shipping something each sunday, not only 'hang out and chit chat'   
 **Not Educational Workshops**: Learning happens through doing, not presentations    
 **Not Individual**: Everything is team-based with minimum 3-person teams  
 **Not Optional**: Shipping requirements and full-day commitment are non-negotiable  
 
-**We Are**: A movement of builders who ship AI applications together, creating both technology and lasting community bonds through the shared intensity of collaborative creation.  
+**We Are**: A movement of builders who ship AI applications together, creating both technology and lasting community bonds through the shared collaborative creation.  
 
 ---
 
