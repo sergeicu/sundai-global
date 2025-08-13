@@ -7,6 +7,8 @@ A global network of AI hackers who come together weekly to build, ship, and depl
 Sundai is born out of MIT and Harvard.
 
 ### Our Mission
+Push the envelope of what is possible to do with AI in a day.
+
 1. **Grow the Best Hackers**  
    learn to build fast with AI
 2. **Build things that matter**  
@@ -17,10 +19,8 @@ Sundai is born out of MIT and Harvard.
 ### Our Vision
 *"A world where hacking with AI tools is the new literacy."*
 
-Our goal is to push the envelope of what is possible to do with AI in a day.
-
 ### What is a hacker
-Someone who moves fast with little capital and resources to make impact on focused problems. Someone who uses start of the art AI tools.
+Someone who moves fast with little capital and resources to make impact on focused problems. 
 
 ```python
 def hacker_vs_engineer():
