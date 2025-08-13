@@ -3,7 +3,7 @@
 ## Core Purpose
 A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about **collaborative creation** - turning ideas into shipped products within 12 hours.
 
-Read full constitution [here]([https://docs.google.com/document/d/1cLBKGNygKANdKQ-4zBomAVn_wjkeaFFNVuh2D-hu6tY/edit?usp=sharing](https://github.com/sergeicu/sundai-global/blob/main/Constitution.md))
+Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/main/Constitution.md)
 
 ## Key Responsibilities of City Organizers
 
@@ -15,51 +15,52 @@ Read full constitution [here]([https://docs.google.com/document/d/1cLBKGNygKANdK
 5. **Post-hack follow-up**: Ensure all teams meet shipping requirements
 
 ### MC Responsibilities (Rotated Weekly)
-- **Facilitate team formation** and project selection processes
 - **Lead the hack day** as Master of Ceremonies throughout 12-hour session
 - **Coordinate food & logistics** throughout the day
+- **Facilitate team formation** and project selection processes
+- **Facilitate brainstorm and launch** for the start and end of the day respectively
 
-## Participant Screening Criteria
 
-### Must Be "Actively Building" Which Includes:
-- **Coding** - abilities or commitment to learn full stack dev  
-- **Team work** - open to new ideas and collaborative work 
-- **Shipping mentality** - focus on deployed, user-facing applications
+## Attendee Screening Criteria 
+
+Each Attendee Must Be Able To "Actively Build": 
+- **Code** - ability to code or a commitment to (with AI tools ofc) 
+- **Team** - build in a team and bring positive value (and vibe) 
+- **Ship** - focus on deploying a user-facing application by end of the day 
 
 ### Commitment Requirements:
-- **Full day participation** (10am-10pm or equivalent)
-- **Team-first approach** - work on collective ideas, not individual projects
-- **Shipping discipline** - commit to deploying working applications same day
-- **Community contribution** - help with setup/cleanup, eventual MC leadership
+- **Full day participation** - 10am-10pm or equivalent. Drop offs highly discouraged as it breaks team dynamic. 
+- **Sundai projects only** - work on ideas born at sundai hacks, not personal projects from before
+- **Community contribution** - help with setup/cleanup. We are all volunteers. Everyone helps to run the event. 
+- **Attribution** - post projects on sundai.club/projects and clearly display 'Built at Sundai' on website or demos (e.g. footer, etc) 
 
 ## Hack Day Structure & Process
 
 ### Timeline (12-Hour Format):
 **Morning (10am-12pm):**
-- Newcomer onboarding
-- Idea pitch session (focus on user interviews & market validation)
+- Newcomer onboarding (short presentation of Sundai Mission & Values, commitment requirements & flow of the day) 
+- Idea pitch session (focus on user need & market validation)
 - Democratic voting on ideas (impact × feasibility × user need)
 - Team formation (minimum 3 people per team)
 
 **Afternoon (12pm-6pm):**
-- **Core building time** - collaborative development
-- Lunch coordination (organize/order food)
+- Core building time - collaborative dev and vibe code
+- Lunch coordination (MC to organize or delegate food)
 - Optional "Sunday runs" and social breaks ("frolic" time)
 
-**Evening (6pm-9pm):**
-- **Pre-launch requirements**:
-  - Deploy working application
+**Evening (6pm-10pm):**
+
+- **Launch prep (7-8pm)**:
   - Open source code on GitHub
   - Create project page on sundai.club
   - Write blog/vlog documentation
   - Post on social media (minimum LinkedIn)
-- **Launch showcase** - live user testing, not pitch presentations
-- Community feedback and learning sharing
+  - And of course - deploy working application
+ 
+- **Launch (8-9pm)** - live user testing, not pitch presentations. After - team members talk about which new tools they tried and worked / didnt. Share lessons with others. 
 
 **Wrap-up (9pm-10pm):**
 - Cleanup & organize space (everyone participates)
-- Plan next week's themes/partnerships
-- Collect feedback and track engagement metrics
 
 ## Sundai Cultural Principles
 
@@ -112,11 +113,11 @@ Every team must complete by day's end:
 ## Venue Requirements
 
 ### Essential Features:
-- **12-hour availability** (Sundays)
+- **~12-hour availability** (Sundays)
 - **Collaborative workspace** with tables for 3-6 person teams
 - **Reliable high-speed internet** for development and deployment
 - **Power access** for all participants' devices
-- **Presentation area** for evening showcases, or share zoom link for all 
+- **(optional) Presentation area** for evening showcases. Also works - share a zoom link and sit in a circle.
 
 ### Capacity Planning:
 - Target 15-30 participants per session
@@ -130,7 +131,7 @@ Every team must complete by day's end:
 - **Startup founders** and technical co-founders
 - **AI researchers** wanting to build applications
 - **Product managers** with technical backgrounds
-- **Design technologists** and technical designers
+- **Designers** 
 
 ### Outreach Channels:
 - **Direct recruitment** from local tech communities
@@ -169,15 +170,13 @@ Every team must complete by day's end:
 ## Getting Started Checklist
 
 ### Month 1: Foundation
-- [ ] Identify and secure consistent weekly venue
-- [ ] Recruit initial core team (3-5 committed organizers)
-- [ ] Establish social media presence and project documentation site
-- [ ] Plan first 4 hack themes with user research components
+- [ ] Identify and secure consistent weekly venue(s)
+- [ ] Recruit initial core team (2-3 committed organizers)
+- [ ] Establish social media presence and documentation site (city.sundai.club) 
+- [ ] Plan first 4 hack themes via partiful / luma (sundai boston will help) 
 
 ### Month 2: Launch
-- [ ] Host inaugural hack day with MC rotation system
 - [ ] Document and showcase first shipped projects
-- [ ] Begin newcomer recruitment and screening process
 - [ ] Establish partnerships with local tech ecosystem
 
 ### Month 3: Growth
