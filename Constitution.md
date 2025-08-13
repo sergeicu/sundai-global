@@ -3,7 +3,8 @@
 ## Article I: Mission & Vision
 
 ### What is Sundai:
-Sundai is a community of weekly builders for rapid prototyping with AI - born out of MIT and Harvard.
+A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about turning ideas into shipped products within 12 hours.
+Sundai is born out of MIT and Harvard.
 
 ### Mission
 1. **Cultivate the Best Hackers**  
