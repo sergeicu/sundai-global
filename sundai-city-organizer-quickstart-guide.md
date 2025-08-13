@@ -88,12 +88,12 @@ Sundai is a community run by volunteers. The leader of the day (MC) is not paid.
 
 ## Community Management
 
-### Hierarchy & Progression:
+### Hacker Levels:
 - **Newcomer**: First 4 hacks, focus on learning and integration
 - **Hacker**: Regular participants, contribute to community decisions  
 - **Core Hacker**: Lead teams, MC events, vote on technical direction
 
-### Promotion Requirements:
+### Promotion:
 - **Newcomer → Hacker**: 4 full hack days completed
 - **Hacker → Core Hacker**: 3x launch lead + 1x MC + significant community contribution
 
