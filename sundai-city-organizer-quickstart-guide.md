@@ -17,7 +17,7 @@ Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/mai
 5. **Post-hack follow-up**: Ensure all teams meet shipping requirements
 
 ### MC Duties (Rotated Weekly)
-- **Lead the hack day** as Master of Ceremonies throughout 12-hour session
+- **Lead the hack day** as Master of Ceremonies (MC) throughout 12-hour session
 - **Coordinate food & logistics** throughout the day
 - **Facilitate team formation** and project selection processes
 - **Facilitate brainstorm and launch** for the start and end of the day respectively
