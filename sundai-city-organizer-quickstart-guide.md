@@ -52,17 +52,17 @@ Each Attendee Must Be Able To "Actively Build":
 
 **Evening (6pm-10pm):**
 
-- **Launch prep (7-8pm)**:
+- **Deploy live application (6-7pm)**: _'get off the localhost'_
+
+- **Pre-Launch Checklist (7-8pm)**:
   - Open source code on GitHub
   - Create project page on sundai.club
   - Write blog/vlog documentation
   - Post on social media (minimum LinkedIn)
-  - And of course - deploy working application
- 
-- **Launch (8-9pm)** - live user testing, not pitch presentations. After - team members talk about which new tools they tried and worked / didnt. Share lessons with others. 
+  
+- **Launch (8-9pm)** - live user testing, not pitch presentations. Next - team shares with community about which new tools they tried and what worked / didnt work. 
 
-**Wrap-up (9pm-10pm):**
-- Cleanup & organize space (everyone participates)
+- **Wrap-up (9pm-10pm):** Cleanup & organize space (_everyone_ participates)
 
 ## Sundai Cultural Principles
 
@@ -96,9 +96,9 @@ Community-run by volunteers. Everyone contributes to logistics, cleanup, and eve
 - **Hacker → Core Hacker**: 3x launch lead + 1x MC + significant community contribution
 
 ### Weekly Operations:
-- **One MC per week** (rotated among hackers seeking promotion)
+- **One MC per week** (rotated among hackers)
 - **Max 20% newcomers** each session to maintain community continuity
-- **Mandatory participation** in post-hack shipping requirements
+- **Mandatory Commit** to follow through Launch Checklist (if not done 7-8pm during a hack)
 - **Weekly hacker meetings** for community management (separate from hack days)
 
 ## Launch Requirements (Non-Negotiable)
