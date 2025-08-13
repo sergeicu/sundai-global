@@ -192,7 +192,7 @@ Every team must complete by day's end:
 ## Key Differences from Traditional Tech Meetups
 
 **Not Demo Days**: We don't showcase pre-built work - we build together from scratch  
-**Not Networking Events**: Our focus is on creating and shipping something new each sunday. Everyone must come to ship something, not just 'hangout'. 
+**Not Networking Events**: Our focus is on creating and shipping something new each sunday. Everyone must come to ship something, not just 'hangout'.   
 **Not Educational Workshops**: Learning happens through doing, not presentations    
 **Not Individual**: Everything is team-based with minimum 3-person teams  
 **Not Optional**: Shipping requirements and full-day commitment are non-negotiable  
