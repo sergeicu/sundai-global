@@ -13,7 +13,7 @@ Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/mai
 1. **Secure consistent venues** with power, wifi, and collaborative workspace
 2. **Curate active builders** - screen for commitment to full-day participation  
 3. **Delegate MC role weekly** and support MC leadership development
-4. **Community growth**: Onboard newcomers (max 20% of total participants)
+4. **Community growth**: Acquire and onboard newcomers (max 20% of total participants)
 5. **Post-hack follow-up**: Ensure all teams meet shipping requirements
 
 ### MC Duties (Rotated Weekly)
@@ -130,7 +130,7 @@ Every team must complete by day's end:
 - **(optional) Presentation area** for evening showcases. Also works - share a zoom link and sit in a circle.
 
 ### Capacity Planning & Growth:
-- Always start small with a group of friends. A group of 6 friends is better than a group of 30 strangers.
+- Always start small with a group of committed friends. A group of 6 friends is better than a group of 30 strangers.
 - Grow slowly. Accept 20-30% newcomers each session to maintain continuity.
 - Target 10-30 participants per session max. 
 - Gently but firmly kick out people that don't come to hack (e.g. those that just talk, or those that come just to recruit, etc)
