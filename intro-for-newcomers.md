@@ -12,13 +12,13 @@ Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/mai
 Each Attendee Must Be Able To: 
 - **Code** - ability to code or a commitment to (with AI tools ofc) 
 - **Collaborate** - build in a team and bring positive value (and vibe) 
-- **Ship** - focus on deploying a user-facing application by end of the day 
+- **Ship** - focus on deploying a simple user-facing application by end of the day 
 
 ### Commitment Requirements:
 - **Full day participation** - 10am-10pm or equivalent. Drop offs highly discouraged as it breaks team dynamic. 
-- **Sundai projects only** - work on ideas born at sundai hacks, not personal projects from before
+- **Sundai projects only** - work on ideas born at sundai hacks, or on open source projects that everyon can contribute to. 
 - **Community contribution** - help with setup/cleanup. We are all volunteers. Everyone helps to run the event. 
-- **Attribution** - post projects on sundai.club/projects and clearly display 'Built at Sundai' on website or demos (e.g. footer, etc) 
+- **Attribution** - post projects on sundai.club/projects and clearly display attribution to your team and Sundai (e.g. 'Built at Sundai' on the website footer) 
 
 ## Hack Day Structure & Process
 
@@ -31,7 +31,8 @@ Each Attendee Must Be Able To:
 
 **Afternoon (12pm-6pm):**
 - Core building time - collaborative dev and vibe code
-- Lunch coordination (MC to organize or delegate food)
+- Record short 30s video of 'what are you building' and post on sundai.club/projects
+- Lunch (self pay or sponsored, depends on the day)
 - Optional "Sunday runs" and social breaks ("frolic" time)
 
 **Evening (6pm-10pm):**
@@ -40,9 +41,9 @@ Each Attendee Must Be Able To:
 
 - **Pre-Launch Checklist (7-8pm)**:
   - Open source code on GitHub
-  - Create project page on sundai.club
-  - Write blog/vlog documentation
-  - Post on social media (minimum LinkedIn)
+  - Post project + video pitch (30s that were filmed at lunchtime) on sundai.club/projects
+  - [optional but very cool] Add 'lessons' learned' - e.g. new tools that you tried, what worked/didn't work
+  - [optional but very cool] Promote your hack and post on social media (LinkedIn), tag @sundai.club
   
 - **Launch (8-9pm)** - live user testing, not pitch presentations. Next - team shares with community about which new tools they tried and what worked / didnt work. 
 
@@ -91,9 +92,10 @@ Every team must complete by day's end:
 1. **Working deployed application** accessible via URL
 2. **Open source repository** on GitHub
 3. **Project documentation** on sundai.club/projects
-4. **Social media post** (minimum LinkedIn) with team credits
-5. **Live user testing** during evening showcase
-6. **Clear attribution** to Sundai and all team members
+4. **Social media post** (optional but very cool) - e.g. LinkedIn) with team + Sundai tags
+5. **Lessons learned** (optional but very cool) - e.g. what worked / didn't work on project page
+6. **Live user testing** during evening showcase
+7. **Clear attribution** to Sundai and all team members
 
 ---
 
