@@ -5,7 +5,7 @@ A global network of AI hackers who come together weekly to build, ship, and depl
 
 Sundai is born out of MIT and Harvard.
 
-Essential - read intro for newcomers / how to run a hack [here](https://github.com/sergeicu/sundai-global/blob/main/intro-for-newcomers.md)
+Essential - read intro for newcomers / how to run a hack [here](https://github.com/sergeicu/sundai-global/blob/main/intro-for-newcomers.md)  
 Essential - read full constitution [here](https://github.com/sergeicu/sundai-global/blob/main/Constitution.md)
 
 ## Key Responsibilities of City Organizers
