@@ -9,9 +9,9 @@ Read full constitution [here](https://github.com/sergeicu/sundai-global/blob/mai
 
 ## Attendee Screening Criteria 
 
-Each Attendee Must Be Able To "Actively Build": 
+Each Attendee Must Be Able To: 
 - **Code** - ability to code or a commitment to (with AI tools ofc) 
-- **Team** - build in a team and bring positive value (and vibe) 
+- **Collaborate** - build in a team and bring positive value (and vibe) 
 - **Ship** - focus on deploying a user-facing application by end of the day 
 
 ### Commitment Requirements:
