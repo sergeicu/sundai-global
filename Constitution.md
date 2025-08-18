@@ -64,7 +64,7 @@ Frolic. Have fun. e.g. go for a run in the middle of a hack day, play a short vo
 ### Share Openly
 We open source each hack and post our progress each Sunday on www.sundai.club/projects. We demo our hacks wherever we go and teach workshops on what we learn.
 
-### Build in Teams
+### Work in Teams
 Sundai is a team sport. We encourage each hacker to constantly meet and form new teams and build things TOGETHER. Our diverse skills and backgrounds is what makes our hacks interesting. No solo.
 
 ### Help, Clean & Organize
@@ -72,6 +72,9 @@ Sundai is a community run by volunteers. The leader of the day (MC) is not paid.
 
 We copyleft this Burning Man principle:
 > *Our community is committed to a radically participatory ethic. We believe that transformative change, whether in the individual or in society, can occur only through the medium of deeply personal participation. We achieve being through doing. Everyone is invited to work. Everyone is invited to play. We make the world real through [community] actions.*
+
+### Shortcuts
+Shortcuts is an ingenious move that a hacker makes to build a system that works. In order to build fast - you always need to think in shortcuts.
 
 ## Article III: Roles & Levels
 
