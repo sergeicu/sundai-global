@@ -1,4 +1,4 @@
-# Sundai City Organizer QuickStart Guide
+# Intro for newcomers
 
 ## What is Sundai
 A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about co-creating in teams to turn ideas into shipped products within 12 hours. 
