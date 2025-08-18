@@ -73,103 +73,25 @@ Sundai is a community run by volunteers. The leader of the day (MC) is not paid.
 We copyleft this Burning Man principle:
 > *Our community is committed to a radically participatory ethic. We believe that transformative change, whether in the individual or in society, can occur only through the medium of deeply personal participation. We achieve being through doing. Everyone is invited to work. Everyone is invited to play. We make the world real through [community] actions.*
 
-## Article III: Who Can Become a Sundai Hacker
-
-1. **Eligibility**: Open to individuals with coding skills or a commitment to learn and ship code with AI tools. Each week the club will accept no more than 20% of total as newcomers to keep consistent effort.
-
-2. **Commitment**: Members must participate fully in Sundai hacks (10 am to 10pm, or whatever is 'a full day hack' on that day). People that leave 'early' are highly discouraged as it breaks the flow of the team work. Don't do half day - come to the full day when you can give it 100%.
-
-3. **Team Work**: Members work on the chosen ideas of the day, not their own individual projects. Sundai is for teams to build new projects, not someone's individual work.
-
-## Article IV: How a Sundai Hack Works
-
-### Process:
-
-- **Pre-hack**: hackers may conduct user interviews for hack ideas. This will be valued more than ideas brought on the fly. hackers may prepare and organize themes for specific hacks.
-
-- **Idea Selection**: Vote on ideas together. We vote based on: impact, technical feasibility, user need. Ideas that can be accomplished in a day proceed to the team formation stage.
-
-- **Team Formation**: A team must be a minimum of 3. We encourage you to meet new people and form new teams each week. 
-
-- **Hacking**: Free-flow. Quick check-in at lunchtime. Every team shouts what they did in last 1-2 hours.
-
-- **Pre-launch prep**: Each team must 
-  
-  1. post a project on sundai.club page with  a) open source code b) a blog or vlog
-  2. make a post on social media (min linkedin)
-  5. All webpages, posts or code must clearly acknowledge Sundai and all team members of a hack in a visible manner. Templates or Examples will be provided.
-
-- **Launch**: Hack launch is NOT a pitch. It is a trial. A random member of Sundai audience comes to Sundai.club webpage, opens the link to your app and talks through what they see. All members discuss the project to give feedback. Your team shares your insights about the hack with everyone - e.g. which tech tools you used and what you learned
-
-- **Track**: After launch, each team should track engagement and users on social media or on conduct user interviews.
-
-- **Iterate**: Bring projects back and improve. Our goal is to enable as many startups or impact projects to grow out of sundai. Once a project returns for a 2nd or 3rd hack - it can be made 'closed source'. HOWEVER - 1. all efforts must be acknowledged clearly based on effort put in by all team members. 2. Acknowledge Sundai itself in any work, including hacks and papers in all public materials.
-
-## Article V: How to Lead a Hack (or a Retreat)
-
-### Hacks:
-
-**Role: Master of Ceremonies (MC)**: MCs lead the day of the hack.
-
-MCs are chosen weekly. You can only be promoted to 'Core Hacker' (see Sundai Levels below) if you MC at least one hack.
-
-MCs lead the entire day and have the following responsibilities:
-
-1. **Food** - delegate how participants will get food. Get breakfast and lunch (only when sponsored).
-2. **Newcomers** - onboard newcomers and answer their questions
-3. **Brainstorm** - lead the brainstorm or find someone to be the 'Brainstorm' lead.
-4. **Showcase** - lead the evening showcase or find someone to be the 'Showcase' lead.
-
-### Retreats:
-
-Retreats are the fundamental part of club participation. Retreats are scheduled every ~8 weeks for alignment, team bonding, and planning. They include a lot of frolic, and some planning. They usually take place out of the city, ideally in nature. A retreat ends the 'sprint' (a set of ~7 hacks, followed by a retreat). Retreats are the most magical experiences of sundai.
-
-In retreats the following happens:
-- Definition of strategic directions for the club for next sprint (~7weeks)
-- Discussion to new proposed 'community initiatives'
-- Discussion of key strategic partnerships
-- Promotion in hacker rank
-- Review of growth and goals
-  - How many new hackers
-  - How many core hackers and hackers in residence
-  - How many new projects
-  - How many returning projects (3+ hacks)
-  - How many new startups
-
-## Article VI: How to do Partnerships
-
-All initiatives must share Sundai principles (see Article III).
-
-All initiatives or partnerships must clearly display its affiliation with Sundai in publicly shared materials, such as powerpoint presentations or websites.
-
-Each person who is a speaker should also present themselves as a sundai hacker if they are talking about sundai related activities.
-
-Sundai Club aims to grow its network, knowledge and resources where possible.
-
-## Article VII: Roles & Levels
-
-1. **Newcomer**: Newbies focused on learning and integration.
-2. **Member**: Semi-regular members who come to hacks
-3. **Hacker**: Active participants in hacks and community.
-4. **Core Hacker**: Leaders of teams (launch leads) and sundai hacks (MCs). Have core say on all technical matters.
-
-### Responsibilities
+## Article III: Roles & Levels
 
 1. **Newcomers**
    - Focus on learning and participating in projects
 
 2. **Members**:
+   - Semi-regular participants in Sundai Hacks
    - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
 
-3. **Hackers**:
+4. **Hackers**:
+   - Active participants in hacks and community.
    - Access to free API credits, invites to speak at events, invites to teach/TA at MIT/Harvard, invites to retreat (subsidized)
    - Volunteer at one small task per week to help run the community (<30mins) (aka decentralized management)  
 
-4. **Core Hackers**:
+6. **Core Hackers**:
+   - Leaders of teams
+   - Have core say on all technical matters.
    - Invited to represent Sundai at high profile events
-   - Invited to vote on core Sundai issues
-   - Actively lead projects and strategic plans to expand Sundai 
-   - Expected to be core organizers of retreats 
+   - Expected to be core organizers of retreats and lead community initiatives (e.g. HumanX, SundaiPod, AI Courses, etc) 
 
 ### Promotion Criteria
 
@@ -183,23 +105,7 @@ Sundai Club aims to grow its network, knowledge and resources where possible.
    - At least 3x launch lead (team leader)
    - At least 1x MC
 
-## Article VIII: Communication
-
-### Weekly meetings
-Held once per week. Offer a chance for all active hackers of the community to give feedback and discuss outside the usual sundai hack day. Sundai Hack is typically reserved for hacking NOT management of the club. Management of sundai on a sunday is highly discouraged.
-
-### Discord
-Discord is the main place for the entire community to discuss projects, share news, go into calls and connect globally.
-
-### Social Media
-We use Sundai's LinkedIn and X the most.
-
-### Website
-We will setup subpages to individual projects under sundai.club or sundai.foundation.
-
-E.g. paris.sundai.club, research.sundai.club.
-
-## Article IX: Amendments
+# Amendments
 
 1. **Proposal**: Any member can propose amendments.
 2. **Approval**: Amendments must pass a majority vote from Core Hackers, and then pass a 2/3 approval from Sundai Foundation (legal place)
