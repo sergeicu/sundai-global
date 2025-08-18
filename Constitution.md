@@ -149,30 +149,37 @@ Sundai Club aims to grow its network, knowledge and resources where possible.
 ## Article VII: Roles & Levels
 
 1. **Newcomer**: Newbies focused on learning and integration.
-2. **Hacker**: Active participants in hacks and community.
-3. **Core Hacker**: Leaders of teams (launch leads) and sundai hacks (MCs). Have core say on all technical matters.
+2. **Member**: Semi-regular members who come to hacks
+3. **Hacker**: Active participants in hacks and community.
+4. **Core Hacker**: Leaders of teams (launch leads) and sundai hacks (MCs). Have core say on all technical matters.
 
 ### Responsibilities
 
-1. **Core Hackers**:
-   - Invited to teach workshops and present Sundai at high profile events
+4. **Core Hackers**:
+   - Invited to represent Sundai at high profile events
    - Invited to vote on core Sundai issues
    - Actively lead projects and strategic plans to expand Sundai 
    - Expected to be core organizers of retreats 
 
 3. **Hackers**:
-   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
-   - Regularly lead teams in a hack as 'Launch Leads' 
+   - Access to free API credits, invites to speak at events, invites to teach/TA at MIT/Harvard, invites to retreat (subsidized)
+   - Volunteer at one small task per week to help run the community (<30mins) (aka decentralized management)  
 
-4. **Newcomers**
+2. **Members**:
+   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
+
+1. **Newcomers**
    - Focus on learning and participating in projects
 
 ### Promotion Criteria
 
-1. **Newcomer to Hacker**:
+1. **Newcomer to Member**:
    - At least 4 full hacks
+  
+2. **Member → Hacker**
+   - Take up one small task you would do each week for the community (~30mins)   
 
-2. **Hacker to Core Hacker**:
+4. **Hacker to Core Hacker**:
    - At least 3x launch lead (team leader)
    - At least 1x MC
 
