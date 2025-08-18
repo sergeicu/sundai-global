@@ -100,8 +100,3 @@ Essential - read full constitution [here](https://github.com/sergeicu/sundai-glo
 - [ ] Track metrics and iterate on format based on community feedback
 - [ ] Expand network connections with other Sundai cities
 
----
-
-*"A world where hacking with AI tools is the new literacy" - Sundai Vision*  
-
-**Remember**: Sundai is about transforming Sunday from a day of rest into a day of collaborative creation. We measure success not in demos or presentations, but in shipped applications, user engagement, and the startups that emerge from our weekly building sessions.
