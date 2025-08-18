@@ -155,21 +155,21 @@ Sundai Club aims to grow its network, knowledge and resources where possible.
 
 ### Responsibilities
 
-4. **Core Hackers**:
-   - Invited to represent Sundai at high profile events
-   - Invited to vote on core Sundai issues
-   - Actively lead projects and strategic plans to expand Sundai 
-   - Expected to be core organizers of retreats 
+1. **Newcomers**
+   - Focus on learning and participating in projects
+
+2. **Members**:
+   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
 
 3. **Hackers**:
    - Access to free API credits, invites to speak at events, invites to teach/TA at MIT/Harvard, invites to retreat (subsidized)
    - Volunteer at one small task per week to help run the community (<30mins) (aka decentralized management)  
 
-2. **Members**:
-   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
-
-1. **Newcomers**
-   - Focus on learning and participating in projects
+4. **Core Hackers**:
+   - Invited to represent Sundai at high profile events
+   - Invited to vote on core Sundai issues
+   - Actively lead projects and strategic plans to expand Sundai 
+   - Expected to be core organizers of retreats 
 
 ### Promotion Criteria
 
