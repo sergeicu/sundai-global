@@ -71,19 +71,6 @@ Sundai is a team sport. We encourage each hacker to constantly meet and form new
 ### 6. Help, Clean & Organize
 Sundai is a community run by volunteers. The leader of the day (MC) is not paid. Every participant is expected to help clean & organize the room at the end of the day. Every regular hacker is expected to stand up and lead a hack one day. You are the leader of Sundai. It is a hacker group run by hackers for hackers.
 
-## Community Management
-
-### Hacker Levels:
-- **Newcomer**: First 4 hacks, focus on learning and integration
-- **Community Member**: Semi-regular participants
-- **Hacker**: Regular participant, volunteers at one small task per week to help run the community (<30mins) (aka decentralized management), access to free API credits, invites to speak at events, invites to teach/TA at MIT/Harvard, invites to retreat (subsidized)
-- **Core Hacker**: Leads teams, MCs events, vote on technical directions of the entire community 
-
-### Promotion:
-- **Newcomer → Member**: 4 full hack days completed
-- **Member → Hacker**: Take up one small task you would do each week for the community (~30mins)
-- **Hacker → Core Hacker**: 3x launch lead + 1x MC + significant community contribution
-
 
 ## Launch Requirements (Non-Negotiable)
 
