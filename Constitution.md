@@ -3,18 +3,20 @@
 ## Article I: Mission & Vision
 
 ### What is Sundai:
-A global network of AI hackers who come together weekly to build, ship, and deploy AI applications in a single day. Unlike other tech meetups that focus on presentations, Sundai is about using state of the art AI tools and co-creating in teams to turn ideas into shipped products within 12 hours. 
-Sundai is born out of MIT and Harvard.
+A global network born out of Harvard & MIT that trains the next generation of AI builders and founders, who come together weekly to build & ship with AI to tackle humanity's hardest challenges. We connect the top universities and tech companies together with top tech talent. We focus heavily on experimenting with state of the art AI tools & papers, and promote the move away from 'vibecoding' to 'agentic coding' era.
+
+Our flagship events are 'Sundai Hacks' - which bring together AI researchers and developers who weekly every single Sunday to rapidly prototype and deploy AI applications in 12-hour intensive sessions. Unlike traditional tech meetups, Sundai focuses on hands-on experience where participants leverage state-of-the-art AI tools, form collaborative teams, and ship functional applications that solve pressing problems by day's end. We promote 'build first' and 'ship into users hands by end of the day' mindset. Our meetups are not hackathons, as we focus on collaborative, community-driven, open-source, real-world problem sets that are deployed as REAL applications or tech tool evaluations, rather than presentations for judges and awards at hackathons. 
 
 ### Our Mission
-Push the envelope of what is possible to do with AI in a day.
+Cultivate a generation of builders & founders who use AI to tackle humanity's hardest challenges 
 
-1. **Grow the Best Hackers**  
-   learn to build fast with AI
+1. **Train the Best Hackers**  
+   harness AI tools to the maximum
 2. **Build things that matter**  
    users / $$$ / github ⭐️
 3. **Spread the Hacker Mindset**  
-   teach the skills that we learn at MIT and beyond
+   teach the skills that we learn at MIT and beyond. Empower technical talent to rapidly solve focused problems with minimal resources. Teach for global impact. Focus on state of the art AI tools & frameworks. 
+
 
 ### Our Vision
 *"A world where hacking with AI tools is the new literacy."*
@@ -81,16 +83,12 @@ Shortcuts is an ingenious move that a hacker makes to build a system that works.
 1. **Newcomers**
    - Focus on learning and participating in projects
 
-2. **Members**:
-   - Semi-regular participants in Sundai Hacks
-   - Actively share learnings of new AI tools and frameworks with the club on Discord and in get togethers 
-
-4. **Hackers**:
+2. **Hackers**:
    - Active participants in hacks and community.
    - Access to free API credits, invites to speak at events, invites to teach/TA at MIT/Harvard, invites to retreat (subsidized)
    - Volunteer at one small task per week to help run the community (<30mins) (aka decentralized management)  
 
-6. **Core Hackers**:
+3. **Resident Hackers**:
    - Leaders of teams
    - Have core say on all technical matters.
    - Invited to represent Sundai at high profile events
@@ -98,15 +96,11 @@ Shortcuts is an ingenious move that a hacker makes to build a system that works.
 
 ### Promotion Criteria
 
-1. **Newcomer to Member**:
+1. **Newcomer to Hacker**:
    - At least 4 full hacks
   
-2. **Member → Hacker**
-   - Take up one small task you would do each week for the community (~30mins)   
-
-4. **Hacker to Core Hacker**:
-   - At least 3x launch lead (team leader)
-   - At least 1x MC
+2. **Hacker to Resident Hacker**:
+   - At least 1x MC (organize a Sundai Hack) 
 
 # Amendments
 
